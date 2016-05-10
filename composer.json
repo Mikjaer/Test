@@ -1,6 +1,7 @@
 {
     "name": "mikjaer/test",
     "description": "foobar nisse hest",
+    "type": "library",
     "license": "GPL",
     "authors": [
         {
