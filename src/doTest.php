@@ -1,5 +1,5 @@
 <?php
-	namespace Test;
+	namespace Mikjaer\Test;
 
 	class doTest
 	{
